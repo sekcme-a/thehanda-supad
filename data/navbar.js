@@ -20,4 +20,17 @@ export const MENU = [
       },
     ],
   },
+  {
+    text: "포인트 관리",
+    items: [
+      {
+        text: "신청 목록",
+        link: "/point/apply",
+      },
+      {
+        text: "쿠폰 등록",
+        link: "/point/coupon",
+      },
+    ],
+  },
 ];
